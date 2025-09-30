@@ -84,4 +84,4 @@ Product pricing optimization
 📌 Screenshots
 Dashboard View : https://github.com/shreyasrgshetty/BMW-sales-Dashboard-in-power-bi/blob/main/dashboard.png
 
-All Cars - BMW 3 Series : 
+All Cars - BMW 3 Series : https://github.com/shreyasrgshetty/BMW-sales-Dashboard-in-power-bi/blob/main/all%20cars.png
